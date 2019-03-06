@@ -1,0 +1,12 @@
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.vbprojAssemblyReference.cache
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer_App.Form1.resources
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer_App.Resources.resources
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\Experiment 2\Timer App\bin\Debug\Timer App.exe.config
+C:\Users\Karan\source\repos\Experiment 2\Timer App\bin\Debug\Timer App.exe
+C:\Users\Karan\source\repos\Experiment 2\Timer App\bin\Debug\Timer App.pdb
+C:\Users\Karan\source\repos\Experiment 2\Timer App\bin\Debug\Timer App.xml
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.exe
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.xml
+C:\Users\Karan\source\repos\Experiment 2\Timer App\obj\Debug\Timer App.pdb

@@ -1,0 +1,12 @@
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\bin\Debug\Digital Dice.exe.config
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\bin\Debug\Digital Dice.exe
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\bin\Debug\Digital Dice.pdb
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\bin\Debug\Digital Dice.xml
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.vbprojAssemblyReference.cache
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital_Dice.Form1.resources
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital_Dice.Resources.resources
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.exe
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.xml
+C:\Users\Karan\source\repos\Experiment 2\Digital Dice\obj\Debug\Digital Dice.pdb

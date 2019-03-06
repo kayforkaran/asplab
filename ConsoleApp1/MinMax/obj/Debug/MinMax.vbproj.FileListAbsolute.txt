@@ -1,0 +1,10 @@
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\bin\Debug\MinMax.exe
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\bin\Debug\MinMax.pdb
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\bin\Debug\MinMax.xml
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.Resources.resources
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.exe
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.xml
+C:\Users\Karan\source\repos\ConsoleApp1\MinMax\obj\Debug\MinMax.pdb

@@ -1,0 +1,12 @@
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\Digital Clock.vbprojAssemblyReference.cache
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\Digital Clock.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\Digital Clock.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Karan\source\repos\Experiment 2\WindowsApp1\obj\Debug\WindowsApp1.pdb

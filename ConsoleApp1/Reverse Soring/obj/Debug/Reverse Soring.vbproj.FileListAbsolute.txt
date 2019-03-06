@@ -1,0 +1,10 @@
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\bin\Debug\Reverse Soring.exe.config
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\bin\Debug\Reverse Soring.exe
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\bin\Debug\Reverse Soring.pdb
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\bin\Debug\Reverse Soring.xml
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse_Soring.Resources.resources
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse Soring.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse Soring.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse Soring.exe
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse Soring.xml
+C:\Users\Karan\source\repos\ConsoleApp1\Reverse Soring\obj\Debug\Reverse Soring.pdb

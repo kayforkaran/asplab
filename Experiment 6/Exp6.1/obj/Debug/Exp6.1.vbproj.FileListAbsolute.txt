@@ -1,0 +1,13 @@
+F:\labs\asp.net\Experiment 6\Exp6.1\bin\Debug\Exp6.1.exe.config
+F:\labs\asp.net\Experiment 6\Exp6.1\bin\Debug\Exp6.1.exe
+F:\labs\asp.net\Experiment 6\Exp6.1\bin\Debug\Exp6.1.pdb
+F:\labs\asp.net\Experiment 6\Exp6.1\bin\Debug\Exp6.1.xml
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.vbprojAssemblyReference.cache
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6._1.Form1.resources
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6._1.Resources.resources
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.vbproj.GenerateResource.cache
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.vbproj.CoreCompileInputs.cache
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.exe
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.xml
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6.1.pdb
+F:\labs\asp.net\Experiment 6\Exp6.1\obj\Debug\Exp6._1.Retrieve.resources

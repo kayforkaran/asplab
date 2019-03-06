@@ -1,0 +1,11 @@
+F:\labs\asp.net\Experiment1\Experiment1\bin\Debug\Experiment1.exe.config
+F:\labs\asp.net\Experiment1\Experiment1\bin\Debug\Experiment1.exe
+F:\labs\asp.net\Experiment1\Experiment1\bin\Debug\Experiment1.pdb
+F:\labs\asp.net\Experiment1\Experiment1\bin\Debug\Experiment1.xml
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.vbprojAssemblyReference.cache
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.Resources.resources
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.vbproj.GenerateResource.cache
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.vbproj.CoreCompileInputs.cache
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.exe
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.xml
+F:\labs\asp.net\Experiment1\Experiment1\obj\Debug\Experiment1.pdb

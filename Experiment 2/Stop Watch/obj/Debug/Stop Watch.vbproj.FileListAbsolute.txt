@@ -1,0 +1,12 @@
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\bin\Debug\Stop Watch.exe.config
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\bin\Debug\Stop Watch.exe
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\bin\Debug\Stop Watch.pdb
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\bin\Debug\Stop Watch.xml
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.vbprojAssemblyReference.cache
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop_Watch.Resources.resources
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop_Watch.StopWatchForm.resources
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.vbproj.GenerateResource.cache
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.vbproj.CoreCompileInputs.cache
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.exe
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.xml
+C:\Users\Karan\source\repos\Experiment 2\Stop Watch\obj\Debug\Stop Watch.pdb

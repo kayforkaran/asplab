@@ -1,0 +1,12 @@
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\PieceWork Pay.vbprojAssemblyReference.cache
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\Experiment3.Form1.resources
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\Experiment3.Resources.resources
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\PieceWork Pay.vbproj.GenerateResource.cache
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\PieceWork Pay.vbproj.CoreCompileInputs.cache
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\bin\Debug\Experiment3.exe.config
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\bin\Debug\Experiment3.exe
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\bin\Debug\Experiment3.pdb
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\bin\Debug\Experiment3.xml
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\Experiment3.exe
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\Experiment3.xml
+F:\labs\asp.net\Experiment3\Experiment3\Experiment3\obj\Debug\Experiment3.pdb

@@ -1,0 +1,11 @@
+F:\labs\asp.net\Experiment1\Prog3\bin\Debug\Prog3.exe.config
+F:\labs\asp.net\Experiment1\Prog3\bin\Debug\Prog3.exe
+F:\labs\asp.net\Experiment1\Prog3\bin\Debug\Prog3.pdb
+F:\labs\asp.net\Experiment1\Prog3\bin\Debug\Prog3.xml
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Pallindrome.vbprojAssemblyReference.cache
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Prog3.Resources.resources
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Pallindrome.vbproj.GenerateResource.cache
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Pallindrome.vbproj.CoreCompileInputs.cache
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Prog3.exe
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Prog3.xml
+F:\labs\asp.net\Experiment1\Prog3\obj\Debug\Prog3.pdb
